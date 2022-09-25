@@ -1,0 +1,79 @@
+[
+    {
+        "id" : "00000001",
+        "name" : "Improvisierte Leinenbinde +1",
+        "description" : "blabla",
+        "type" : "Construction Plan",
+        "infoBasedOnType" : "00000009:1;00000010:5;00000011:4;00000006:4"        
+    },
+    {
+        "id" : "00000002",
+        "name" : "Weichpelze",
+        "description" : "blabla",
+        "type" : "Ingredient",
+        "infoBasedOnType" : ""        
+    },
+    {
+        "id" : "00000003",
+        "name" : "Leinen",
+        "description" : "blabla",
+        "type" : "Ingredient",
+        "infoBasedOnType" : ""        
+    },
+    {
+        "id" : "00000004",
+        "name" : "Salz",
+        "description" : "blabla",
+        "type" : "Ingredient",
+        "infoBasedOnType" : ""        
+    },
+    {
+        "id" : "00000005",
+        "name" : "Zwirn",
+        "description" : "blabla",
+        "type" : "Ingredient",
+        "infoBasedOnType" : ""        
+    },
+    {
+        "id" : "00000006",
+        "name" : "Nähgarn",
+        "description" : "blabla",
+        "type" : "Ingredient",
+        "infoBasedOnType" : ""        
+    },
+    {
+        "id" : "00000007",
+        "name" : "Weberei",
+        "description" : "blabla",
+        "type" : "Facility",
+        "infoBasedOnType" : ""        
+    },
+    {
+        "id" : "00000008",
+        "name" : "Gerberei",
+        "description" : "blabla",
+        "type" : "Facility",
+        "infoBasedOnType" : ""        
+    },
+    {
+        "id" : "00000009",
+        "name" : "Werkstatt",
+        "description" : "blabla",
+        "type" : "Facility",
+        "infoBasedOnType" : ""        
+    },
+    {
+        "id" : "00000010",
+        "name" : "Leinentuch",
+        "description" : "blabla",
+        "type" : "Construction Plan",
+        "infoBasedOnType" : ""        
+    },
+    {
+        "id" : "00000011",
+        "name" : "Weichleder",
+        "description" : "blabla",
+        "type" : "Construction Plan",
+        "infoBasedOnType" : ""        
+    }
+]
